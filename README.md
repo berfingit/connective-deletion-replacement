@@ -65,6 +65,7 @@ If you have any questions about this dataset, feel free to contact:
 ---
 
 ## Citation
+If you use this dataset in your research, please cite the following paper:
+
 **Berfin Aktaş and Michael Roth.** 2025. *Information-Theoretic and Prompt-Based Evaluation of Discourse Connective Edits in Instructional Text Revisions*. In Proceedings of the 6th Workshop on Computational Approaches to Discourse (CODI 2025). Association for Computational Linguistics.*(To appear)*
 
-If you use this dataset in your research, please cite the following paper:
