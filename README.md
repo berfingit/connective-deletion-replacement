@@ -31,7 +31,7 @@ Each file contains the following columns:
 - `Sentence.Context-before`: Text that precedes the revision  
 - `Sentence.Context-after`: Sentence that follows the revision  
 
-### 1. WikiHow Connective Replacements
+### 2. WikiHow Connective Replacements
 
 This part includes revisions in which a **discourse connective** (e.g., "However", "As a result")  at the beginning of a sentence has been replaced with another connective, without any other changes between the original and revised versions.
 
